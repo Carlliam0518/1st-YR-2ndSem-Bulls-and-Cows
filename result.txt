@@ -1,0 +1,11 @@
+=== Bulls and Cows Game Summary ===
+
+Player's Secret Code   : A
+Computer's Secret Code : 9
+
+Round    Player Guess    AI Guess        Player Result        AI Result           
+--------------------------------------------------------------------------
+1        0               8               0 Bulls, 0 Cows      0 Bulls, 0 Cows     
+2        1               A               0 Bulls, 0 Cows      1 Bulls, 0 Cows     
+
+Result: AI wins!
